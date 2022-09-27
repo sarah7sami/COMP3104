@@ -1,3 +1,4 @@
+# config
 language: node.js
 node_js:
   -"stable"
