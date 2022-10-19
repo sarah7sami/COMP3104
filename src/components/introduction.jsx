@@ -20,7 +20,7 @@ export default class Introduction extends Component {
                         <div className='desc'>
                           <h1>
                             Hi! <br />
-                            I'm Sarah Sami
+                            I'm Sarah.
                           </h1>
                           <p>
                             <a
